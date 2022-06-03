@@ -2,7 +2,7 @@
 
 Welcome to my Github profile, here's a few highlights:
 
-- 🏹 I'm currently building Tailplates, and working fulltime as a Software Engineer at Zuno Carbon
+- 🏹 I'm currently building Tailplates, and working fulltime as a Software Engineer
 - 👨🏾‍💻 I love working with Laravel, Vue, TailwindCSS and Framework7
 - 🎉 I've also done Project Management and looking forward to working in AI projects
 
