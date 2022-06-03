@@ -23,4 +23,4 @@ A few contributions I am proud of:
 
 - Email me - hello [at] bryceandy [dot] com
 
-- Visit [bryceandy.com](htttps://bryceandy.com)
+- Visit [bryceandy.com](https://bryceandy.com)
