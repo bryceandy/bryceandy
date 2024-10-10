@@ -4,7 +4,6 @@ Welcome to my Github profile, here's a few highlights:
 
 - 🏹 I'm currently building Tailplates, and working fulltime as a Software Engineer
 - 👨🏾‍💻 I love working with Laravel, Vue, TailwindCSS and Framework7
-- 🔭 I have project management experience and also looking into data science
 
 ## Contribution
 
