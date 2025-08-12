@@ -2,7 +2,7 @@
 
 Welcome to my Github profile, here's a few highlights:
 
-- 🏹 I'm currently building Tailplates, and working fulltime as a Software Engineer
+- 🏹 I'm currently building vue-tan-table, and working fulltime as a Sr. Software Engineer
 - 👨🏾‍💻 I love working with Laravel, Vue, TailwindCSS and Framework7
 
 ## Contribution
